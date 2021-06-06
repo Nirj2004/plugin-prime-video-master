@@ -1,0 +1,49 @@
+2016/12/27 --> v 15.2.1
+Fix:    Regular expression changed for search menu
+
+2016/12/27 --> v 15.2.0 
+Fix:    Regular expression changed
+
+2016/09/05 --> v 15.1.0
+Fix:    Due to removed TV show and movie genres on Amazon the menus are removed, too.
+Update: Hint to install Chrome and Chrome Launcher.
+
+2015/10/24 --> v 15.0.0
+Fix:    Plugin wasn't working anymore. DE now corrected.
+
+2015/04/20 --> v 14.1.0
+Fix:    Plugin wasn't working anymore. DE and UK Amazon links now corrected.
+
+2014/01/12 --> v 14.0.2
+Fix:    German movie genres didn't work
+
+2014/01/11 --> v 14.0.0
+Added:  Added Amazon UK
+
+2014/12/11 --> v 13.0.8
+Fix:    Added browsing by genre 
+
+2014/11/14 --> v 13.0.7
+Fix:    Regular expression for pictures corrected
+
+2014/11/13 --> v 13.0.6
+Fix:    Regular expression added
+
+2014/11/07 --> v 13.0.5
+Fix:    Series corrected
+
+2014/06/24 --> v 13.0.4
+Fix:    Spelling corrected
+
+2014/05/31 --> v 13.0.3
+Update: Broken regexp due to changes in HTML layout fixed.
+
+2014/05/31 --> v 13.0.2
+New:    Show tv series
+New:    Search menu
+
+2014/05/30 --> v 13.0.1
+Update: Force thumbnail view
+
+2014/05/26 --> v 13.0.0
+New:    Initial version
